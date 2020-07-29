@@ -1,16 +1,36 @@
+```console
+uriyyo@:~$ whoami
+Yurii Karabas
+
+uriyyo@:~$ echo $PRIMARY_SKILLS
+🐍 Python
+🍵 Java
+
+uriyyo@:~$ echo $SECONDARY_SKILLS
+🛠 C/C++
+🙈 JavaScript
+🌱 Kotlin
+```
+
 ### Hi there 👋
 
-<!--
-**uriyyo/uriyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python developer, former Java, C/C++ developer.
 
-Here are some ideas to get you started:
+Currently, I am trying to develop my algorithms skills on LeetCode and CodeWars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.codewars.com/users/yurii_karabas">
+    <img src="https://www.codewars.com/users/yurii_karabas/badges/micro"/>
+  </a>
+  <a href="https://leetcode.com/uriyyo/">
+    <img src="https://lc.coding.gs/v1/uriyyo.svg">
+    <img src="https://lc.coding.gs/v1/solved/uriyyo.svg">
+    <img src="https://lc.coding.gs/v1/solved-rate/uriyyo.svg">
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/uriyyo/coding-challenges">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=uriyyo&repo=coding-challenges"/>
+   </a>
+</p>
