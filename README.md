@@ -1,17 +1,3 @@
-```console
-uriyyo@:~$ whoami
-Yurii Karabas
-
-uriyyo@:~$ echo $PRIMARY_SKILLS
-🐍 Python
-🍵 Java
-
-uriyyo@:~$ echo $SECONDARY_SKILLS
-🛠 C/C++
-🙈 JavaScript
-🌱 Kotlin
-```
-
 ### Hi there 👋
 
 I am a Python developer, former Java, C/C++ developer.
