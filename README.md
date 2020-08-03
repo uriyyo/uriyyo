@@ -9,7 +9,7 @@ Currently, I am trying to develop my algorithms skills on LeetCode and CodeWars.
     <img src="https://www.codewars.com/users/yurii_karabas/badges/micro"/>
   </a>
   <a href="https://leetcode.com/uriyyo/">
-    <img src="https://lc.coding.gs/v1/uriyyo.svg">
+    <img src="https://lc.coding.gs/v1/ranking/uriyyo.svg?logo=leetcode">
     <img src="https://lc.coding.gs/v1/solved/uriyyo.svg">
     <img src="https://lc.coding.gs/v1/solved-rate/uriyyo.svg">
   </a>
