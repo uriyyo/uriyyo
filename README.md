@@ -2,7 +2,7 @@
 
 Can you help me learn `Haskell`?
 
-My OOP mind struggles every time I am attempting to learn it 😢
+My OOP mind struggles every time I attempt to learn it 😢
 
 ```haskell
 fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
@@ -11,9 +11,9 @@ fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
 ## About me
 
 I am a Software Engineer who mostly works with `Python` but used to work with `C/C++` and `Java` a long time ago.
-Hope one day I will be able to understand `Haskell` (I have a dream to lean functional programming).
+Hope one day I will be able to understand `Haskell` (I have a dream to learn functional programming).
 
-[`PEP 505 None-aware operators`](https://peps.python.org/pep-0505/) is feature that I miss the most in `Python`.
+[`PEP 505 None-aware operators`](https://peps.python.org/pep-0505/) is a feature that I miss the most in `Python`.
 ```js
 I?.really?.want?.this?.feature ?? "Or not?"
 ```
@@ -55,8 +55,8 @@ Hope one day it will be useful for someone as `fastapi-pagination` is 🍸.
 ### Python related
 
 I have several contributions to `Python` itself ([commits](https://github.com/python/cpython/commits/main/?author=uriyyo)).
-The most interested one is [(#23316 Store func annotations as a tuple)](https://github.com/python/cpython/pull/23316).
-This optimization reduce memory footprint and improve performance of loading modules having many func annotations.
+The most interesting one is [(#23316 Store func annotations as a tuple)](https://github.com/python/cpython/pull/23316).
+This optimization reduces memory footprint and improves performance of loading modules having many func annotations.
 
 ```py
 >>> sys.getsizeof({"a":"int","b":"int","return":"int"})
@@ -65,7 +65,7 @@ This optimization reduce memory footprint and improve performance of loading mod
 88
 ```
 
-The tuple is converted into dict on the fly when `func.__annotations__` is accessed first.
+The tuple is converted into `dict` on the fly when `func.__annotations__` is accessed first.
 
 ### PyCharm related
 
