@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Hits](https://u8views.com/api/v1/github/profiles/32038156/views/day-week-month-total-count.svg)](https://u8views.com/github/uriyyo)
+
 Can you help me learn `Haskell`?
 
 My OOP mind struggles every time I attempt to learn it 😢
