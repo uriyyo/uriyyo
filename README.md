@@ -1,7 +1,5 @@
 # Hi there 👋
 
-[![Hits](https://u8views.com/api/v1/github/profiles/32038156/views/day-week-month-total-count.svg)](https://u8views.com/github/uriyyo)
-
 Can you help me learn `Haskell`?
 
 My OOP mind struggles every time I attempt to learn it 😢
@@ -9,6 +7,9 @@ My OOP mind struggles every time I attempt to learn it 😢
 ```haskell
 fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
 ```
+
+<!-- u8views stats -->
+<img width="0" height="0" src="https://u8views.com/api/v1/github/profiles/32038156/views/day-week-month-total-count.svg">
 
 ## About me
 
